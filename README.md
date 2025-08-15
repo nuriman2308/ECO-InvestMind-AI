@@ -1,5 +1,5 @@
-# eco_invesmind_ai
-Files for project ECO InvestMind AI - Mobile Application for predicting stock prices and giving personalised recommendations 
+# ECO InvestMind AI
+ECO InvestMind AI - Mobile Application for predicting stock prices and giving personalised recommendations 
 
 Developed a cross-platform mobile application that combines BERT-based sentiment analysis and MLP-driven time series forecasting to assist users with personalized investment recommendations.
 The system analyzes ESG metrics, stock trends, and news headlines to deliver accessible, AI-powered financial guidance — especially designed for regions with lower financial literacy.
