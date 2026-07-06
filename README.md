@@ -52,6 +52,7 @@ Published in the **Journal of Information & Knowledge Management** (World Scient
 **DOI**
 
 https://doi.org/10.1142/S0219649225500686
+
 Link to paper at worldscientific: https://www.worldscientific.com/doi/10.1142/S0219649225500686
 
 ### Accepted Author Manuscript
